@@ -1,0 +1,5 @@
+_drafts/
+.jekyll-cache/
+.sass-cache/
+assets/bulma/
+assets/sass/
