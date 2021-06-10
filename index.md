@@ -17,7 +17,7 @@ title: Home
         <a href="https://www.linkedin.com/in/muhammad-zuhdi-fikri-johari/" target="_blank" class="button is-outlined is-info">
             <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="button is-outlined is-dark">
+        <a href="https://ikkifik.medium.com/" target="_blank" class="button is-outlined is-dark">
             <i class="fab fa-medium"></i>
         </a>
     </span>
